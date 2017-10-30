@@ -1,4 +1,4 @@
-# christmas-lights
+# Christmas-lights
 > Decorating for Christmas, using Arduino Uni and LED addressable lights.
 
 ### Purpose
