@@ -7,5 +7,4 @@ The objective of this project is to use addressable LED light strips and program
 ### Resources
 1. [Equipment vendor: Polulu](https://www.pololu.com/)
 2. [Polulu Github](https://github.com/pololu?page=1)
-)
 
