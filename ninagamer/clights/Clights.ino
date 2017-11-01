@@ -5,11 +5,12 @@
 #include <FastLED.h>
 
 #define LED_PIN     5 
-#define NUM_LEDS    30
+#define NUM_LEDS    30  //Change the number of LEDs as needed
 #define BRIGHTNESS  64
 #define LED_TYPE    WS2811
 #define COLOR_ORDER GRB
-CRGB leds[NUM_LEDS];
+
+CRGB leds[NUM_LEDS]; 
 
 #define UPDATES_PER_SECOND 100
 
