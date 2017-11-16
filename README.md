@@ -4,7 +4,7 @@
 ### Purpose
 - The objective of this project is to use addressable LED light strips and program it using the [FastLED library](http://fastled.io/) in order to make different animated patterns.
 
-- Get my kids interested in electronics and computing.
+- Introduce my kids in electronics and computing.
 
 ### Resources
 1. [Equipment vendor: Polulu](https://www.pololu.com/)
